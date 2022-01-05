@@ -1,4 +1,4 @@
-# Hi, I'm Mason - aka [MythicalMase]
+# Hi, I'm Mason - aka [MythicalMase] 🦘
 
 ## I'm a High School Student, Developer, and Engineer!
 
