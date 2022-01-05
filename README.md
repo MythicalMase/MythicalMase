@@ -1,5 +1,6 @@
 ### Hi, I'm Mason - aka [MythicalMase]
 
+## I'm a High School Student, Developer, and Engineer!
 
 - 🌱 I’m currently trying to teach myself Mechatronics
 - 👯 I’m looking to find simple repos to contribute to
@@ -23,6 +24,10 @@
 
 <br />
 <br />
+
+# Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [twitter]: https://twitter.com/MaseMythical
 [youtube]: https://youtube.com/channel/UCcVICAqd_K6rt8WyLg0HADA
