@@ -40,6 +40,7 @@
 ---
 
 [![MythicalMase's GitHub stats](https://github-readme-stats.vercel.app/api?username=MythicalMase)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MythicalMase)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/MaseMythical
 [youtube]: https://youtube.com/channel/UCcVICAqd_K6rt8WyLg0HADA
