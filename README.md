@@ -37,6 +37,10 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+---
+
+<img align="left" alt="MythicalMase's Github Stats" src="https://github-readmestats.vercel.app/api?username=MythicalMase&show_icons=true&hide_boarder=true" />
+
 [twitter]: https://twitter.com/MaseMythical
 [youtube]: https://youtube.com/channel/UCcVICAqd_K6rt8WyLg0HADA
 [vscode]: https://code.visualstudio.com/
